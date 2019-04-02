@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alunos/Desktop/RTL_ping_pong/RTL_ping_pong.srcs/sources_1/imports/Downloads/clk_div.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_div'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alunos/Desktop/RTL_ping_pong/RTL_ping_pong.srcs/sources_1/imports/Downloads/decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'display_7_segmentos'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alunos/Desktop/RTL_ping_pong/RTL_ping_pong.srcs/sources_1/new/logica.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'logica'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alunos/Desktop/RTL_ping_pong/RTL_ping_pong.srcs/sources_1/new/registrado.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registrador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alunos/Desktop/RTL_ping_pong/RTL_ping_pong.srcs/sources_1/new/top_module.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top_module'
